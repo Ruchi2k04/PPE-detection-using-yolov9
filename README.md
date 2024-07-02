@@ -23,11 +23,11 @@ To run this application locally, follow these steps:
    ```bash
    pip install -r requirements.txt
 3. **Download YOLOv9 weights**  
-   download the best.pt file from [here]()
+download the best.pt file from [here]()
 5. **Run the application**
    ```bash
    python app.py
-7. **Access the application**
-  Open your web browser and go to (http://localhost:5001).
+7. **Access the application**  
+Open your web browser and go to (http://localhost:5001).
 
    
