@@ -22,7 +22,7 @@ To run this application locally, follow these steps:
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-3. **Download YOLOv9 weights**
+3. **Download YOLOv9 weights**  
    download the best.pt file from [here]()
 5. **Run the application**
    ```bash
